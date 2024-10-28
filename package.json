@@ -1,0 +1,52 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "@vueuse/core": "^11.1.0",
+    "add": "^2.0.6",
+    "alert": "^6.0.2",
+    "avatar": "^0.1.0",
+    "badge": "^1.0.3",
+    "card": "^2.5.4",
+    "checkbox": "^0.0.1",
+    "class-variance-authority": "^0.7.0",
+    "dialog": "^0.3.1",
+    "drawer": "^0.0.2",
+    "dropdown-menu": "^0.1.1",
+    "input": "^1.0.1",
+    "label": "^0.2.2",
+    "lucide-vue-next": "^0.452.0",
+    "module": "^1.2.5",
+    "navigation-menu": "^1.0.0",
+    "nuxi": "^3.14.0",
+    "nuxt": "^3.13.0",
+    "pagination": "^0.4.6",
+    "radix-vue": "^1.9.7",
+    "shadcn-nuxt": "^0.10.4",
+    "sheet": "^0.2.0",
+    "sonner": "^1.5.0",
+    "stepper": "^0.0.4",
+    "switch": "^0.0.0",
+    "table": "^6.8.2",
+    "tabs": "^0.2.0",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7",
+    "textarea": "^0.3.0",
+    "vaul-vue": "^0.2.0",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vue-sonner": "^1.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
