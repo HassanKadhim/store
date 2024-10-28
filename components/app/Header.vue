@@ -17,7 +17,7 @@
           href="#"
           class="text-foreground transition-colors hover:text-foreground"
         >
-          Lines
+          Store
         </a>
       </nav>
       <Sheet>
