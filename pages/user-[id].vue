@@ -11,7 +11,7 @@
 <script lang="ts" setup>
  const router = useRoute();
  const { data, status ,execute } = useFetch(`/api/lines/${router?.params?.id}/getUser?date=${new Date()}`);
-  console.log(router?.params);
+
 </script>
 
 <style>
